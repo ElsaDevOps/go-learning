@@ -34,7 +34,7 @@ func main() {
             fmt.Printf("Name: %s\n", contact.Name)
             fmt.Printf("Phone: %s\n", contact.Phone)
             fmt.Printf("Email: %s\n", contact.Email)
-            break  // Stop searching once we find it
+            break  
         }
     }
 }
