@@ -11,4 +11,4 @@ A contact manager which prints the names, numbers and email addresses of a list 
 
 # Running
 
-go run main.go
+go run contact_manager.go
